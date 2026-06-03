@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "reseller",
+      "password": "reseller123",
+      "role": "reseller"
+    },
+    {
+      "username": "partner",
+      "password": "partner789",
+      "role": "partner"
+    },
+    {
+      "username": "moderator",
+      "password": "mod456",
+      "role": "moderator"
+    },
+    {
+      "username": "YanXzOfficial",
+      "password": "160209",
+      "role": "owner"
+    },
+    {
+      "username": "p",
+      "password": "p",
+      "role": "reseller"
+    }
+  ]
+}
