@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "username": "partner",
-      "password": "partner789",
-      "role": "partner"
-    },
-    {
       "username": "moderator",
       "password": "mod456",
       "role": "moderator"
