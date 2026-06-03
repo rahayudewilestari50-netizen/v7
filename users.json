@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "username": "moderator",
-      "password": "mod456",
-      "role": "moderator"
-    },
-    {
       "username": "YanXzOfficial",
       "password": "160209",
       "role": "owner"
