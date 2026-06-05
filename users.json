@@ -9,11 +9,6 @@
       "username": "Sux",
       "password": "123456",
       "role": "owner"
-    },
-    {
-      "username": "Anjay",
-      "password": "999",
-      "role": "moderator"
     }
   ]
 }
