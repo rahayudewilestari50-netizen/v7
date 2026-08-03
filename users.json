@@ -3,17 +3,12 @@
     {
       "username": "YanXzOfficial",
       "password": "160209",
-      "role": "owner"
+      "role": "developer"
     },
     {
       "username": "Sux",
-      "password": "123456",
-      "role": "owner"
-    },
-    {
-      "username": "yanxz",
-      "password": "11",
-      "role": "moderator"
+      "password": "suxganteng",
+      "role": "developer"
     }
   ]
 }
