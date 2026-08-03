@@ -9,6 +9,11 @@
       "username": "Sux",
       "password": "suxganteng",
       "role": "developer"
+    },
+    {
+      "username": "tes",
+      "password": "00",
+      "role": "reseller"
     }
   ]
 }
